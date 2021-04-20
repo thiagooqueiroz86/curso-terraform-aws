@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+output
+.git
+terraform.tfstate.backup
+terraform.tfvars
+terraform.tfstate
+variaveis_secret.tf
